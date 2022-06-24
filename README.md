@@ -1,1 +1,1 @@
-# clockinjs.github.io
+This is a clock made in javascript using async functions and DOM elements, for a better control of the code, the logic of the clock does not rely in css for the shift of the hours but in javascript which gives it functionality and dinamicity, from this project I learned how to use async functions and how setInterval() is used and how to rely logic in javascript dinamically using functions functionally.
